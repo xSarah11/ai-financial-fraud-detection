@@ -1,0 +1,16 @@
+# Data and models (too large for GitHub)
+data/
+*.csv
+models/
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
