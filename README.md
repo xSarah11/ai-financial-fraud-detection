@@ -47,4 +47,4 @@ Python, pandas, scikit-learn, matplotlib, joblib
 - Wrap the model in a small API (Flask / FastAPI)
 
 ## Author
-[xSarah11](https://github.com/xSarah11)
+[Sara Aljohani](https://github.com/xSarah11)
